@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp":"2022-10-07 10:57:10",
+        "deviceName":"mainofficetemp",
+        "deviceId":"019EE55C",
+        "deviceType":"Temperature-Sensor",
+        "gatewayName":"PRGW-XXX",
+        "location":"device-location",
+        "dBm":"-80",
+        "security":"No",
+        "temperature":{
+           "value":20,
+           "unit":"°C"
+        }
+     },
+     {
+        "timestamp":"2022-10-07 10:57:20",
+        "deviceName":"mainofficetemp",
+        "deviceId":"019EE55C",
+        "deviceType":"Temperature-Sensor",
+        "gatewayName":"PRGW-XXX",
+        "location":"device-location",
+        "dBm":"-80",
+        "security":"No",
+        "temperature":{
+           "value":21,
+           "unit":"°C"
+        }
+     },
+     {
+        "timestamp":"2022-10-07 10:57:30",
+        "deviceName":"mainofficetemp",
+        "deviceId":"019EE55C",
+        "deviceType":"Temperature-Sensor",
+        "gatewayName":"PRGW-XXX",
+        "location":"device-location",
+        "dBm":"-80",
+        "security":"No",
+        "temperature":{
+           "value":22, 
+           "unit":"°C"
+        }
+     },
+     {
+        "timestamp":"2022-10-07 10:57:40",
+        "deviceName":"mainofficetemp",
+        "deviceId":"019EE55C",
+        "deviceType":"Temperature-Sensor",
+        "gatewayName":"PRGW-XXX",
+        "location":"device-location",
+        "dBm":"-80",
+        "security":"No",
+        "temperature":{
+           "value":23,
+           "unit":"°C"
+        }
+     },
+     {
+        "timestamp":"2022-10-07 10:57:50",
+        "deviceName":"mainofficetemp",
+        "deviceId":"019EE55C",
+        "deviceType":"Temperature-Sensor",
+        "gatewayName":"PRGW-XXX",
+        "location":"device-location",
+        "dBm":"-80",
+        "security":"No",
+        "temperature":{
+           "value":24,
+           "unit":"°C"
+        }
+     }
+]
