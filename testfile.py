@@ -14,7 +14,7 @@ with open('dataroomoccupancy.json') as datafile:
 with open('datareal.json') as datafile:
         datastorereal = json.load(datafile)
 
-url = "http://10.81.64.84:5000/send"
+url = "http://10.81.64.116:5000/send"
 
 
 headers = {
@@ -31,6 +31,7 @@ def sleep_test(datastore,datastorefake,flag):
     end = time.time()
     print("Waiting Time",end - start)
     if flag:
+        datastore[0]["code"]= [0000,0001,0010,0011,0100,0101,0110,0111,1000,1001,1010,1011,1111]
         start_process = time.time()
         payload = json.dumps(datastore[np.random.randint(0,len(datastore))])
         payloadfake = json.dumps(datastorefake[np.random.randint(0,len(datastore))])
@@ -48,9 +49,9 @@ def sleep_test(datastore,datastorefake,flag):
     print(response.text)
 
 randdata = [datastoretemp,datastorelight,datastoreroom] 
-
+ran = np.random.randint(0,5)
 for i in range(5):
-    if np.random.randint(0,5) == i:
+    if ran == i:
         sleep_test(datastorereal,randdata[np.random.randint(0,3)],1)
     else:
         sleep_test([],randdata[np.random.randint(0,3)],0)
