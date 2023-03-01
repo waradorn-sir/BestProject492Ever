@@ -1,14 +1,30 @@
-{
-    "R3AL": "1",
-    "timestamp": "YYYY-MM-DD HH:MM:SS",
-    "deviceName": "REALME",
-    "deviceId": "555555555555",
-    "deviceType": "Window",
-    "gatewayName": "PRGW-XXX",
-    "location": "422",
-    "dBm": "-80",
-    "security": "No",
-    "contact": "open",
-    "REAL": "1",
-    "code": "4a7d1ed414474e4033ac29ccb8653d9b"
-}
+[
+    {
+        "R3AL": "1",
+        "timestamp": "YYYY-MM-DD HH:MM:SS",
+        "deviceName": "REALME",
+        "deviceId": "555555555555",
+        "deviceType": "Window",
+        "gatewayName": "PRGW-XXX",
+        "location": "422",
+        "dBm": "-80",
+        "security": "No",
+        "contact": "open",
+        "REAL": "1",
+        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
+    },
+    {
+        "R3AL": "1",
+        "timestamp": "2023-MM-DD HH:MM:SS",
+        "deviceName": "REALME",
+        "deviceId": "555555555555",
+        "deviceType": "Window",
+        "gatewayName": "PRGW-XXX",
+        "location": "422",
+        "dBm": "-80",
+        "security": "No",
+        "contact": "open",
+        "REAL": "1",
+        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
+    }
+]

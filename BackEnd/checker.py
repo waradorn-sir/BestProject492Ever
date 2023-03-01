@@ -9,7 +9,10 @@ def check(incomingkey:str):
     return False
 
 def writelog(obj):
-    json_object = json.dumps(obj, indent=4)
+    print(obj)
+    with open("./BackEnd/logdata.json") as datafile:
+        fett = json.load(datafile)
+    fett.append(obj)
     with open("./BackEnd/logdata.json", "w") as outfile:
-        outfile.write(json_object)
+        json.dump(fett, outfile, indent=4, separators=(",",": "))
                 
