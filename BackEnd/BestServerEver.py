@@ -1,6 +1,6 @@
 # save this as app.py
 from flask import Flask,request,jsonify
-
+import checker
 app = Flask(__name__)
 
 @app.route("/")
@@ -9,7 +9,9 @@ def hello():
 
 @app.route("/send", methods=['POST'])
 def hear():
-    print(request.json)
+    if checker.check(request.json["code"]):
+        checker.writelog(request.json)
+    print(request.json["code"])
     response = jsonify({"message":"ok"})
     response.status_code = 201
     return response
