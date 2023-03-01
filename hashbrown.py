@@ -1,8 +1,6 @@
 import hashlib
 
-def hash():
-
-    text = "0000"
+def hash(text:str):
 
     hash_obj = hashlib.md5(text.encode())
 
