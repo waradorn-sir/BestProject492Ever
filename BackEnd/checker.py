@@ -16,3 +16,5 @@ def writelog(obj):
     with open("./BackEnd/logdata.json", "w") as outfile:
         json.dump(fett, outfile, indent=4, separators=(",",": "))
                 
+# def actualdata(obj):
+    
