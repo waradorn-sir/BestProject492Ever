@@ -1,86 +1,17 @@
 [
     {
-        "R3AL": "1",
-        "timestamp": "YYYY-MM-DD HH:MM:SS",
-        "deviceName": "REALME",
-        "deviceId": "555555555555",
-        "deviceType": "Window",
-        "gatewayName": "PRGW-XXX", 
-        "location": "422",
+        "timestamp": "2023-03-08 01:30:11",
+        "deviceName": "living room",
+        "deviceId": "019EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "bed room",
         "dBm": "-80",
         "security": "No",
-        "contact": "open",
-        "REAL": "1",
-        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
-    },
-    {
-        "R3AL": "1",
-        "timestamp": "2023-MM-DD HH:MM:SS",
-        "deviceName": "REALME",
-        "deviceId": "555555555555",
-        "deviceType": "Window",
-        "gatewayName": "PRGW-XXX",
-        "location": "422",
-        "dBm": "-80",
-        "security": "No",
-        "contact": "open",
-        "REAL": "1",
-        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
-    },
-    {
-        "R3AL": "1",
-        "timestamp": "2023-MM-DD HH:MM:SS",
-        "deviceName": "REALME",
-        "deviceId": "555555555555",
-        "deviceType": "Window",
-        "gatewayName": "PRGW-XXX",
-        "location": "422",
-        "dBm": "-80",
-        "security": "No",
-        "contact": "open",
-        "REAL": "1",
-        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
-    },
-    {
-        "R3AL": "1",
-        "timestamp": "2023-MM-DD HH:MM:SS",
-        "deviceName": "REALME",
-        "deviceId": "555555555555",
-        "deviceType": "Window",
-        "gatewayName": "PRGW-XXX",
-        "location": "422",
-        "dBm": "-80",
-        "security": "No",
-        "contact": "open",
-        "REAL": "1",
-        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
-    },
-    {
-        "R3AL": "1",
-        "timestamp": "2023-MM-DD HH:MM:SS",
-        "deviceName": "REALME",
-        "deviceId": "555555555555",
-        "deviceType": "Window",
-        "gatewayName": "PRGW-XXX",
-        "location": "422",
-        "dBm": "-80",
-        "security": "No",
-        "contact": "open",
-        "REAL": "1",
-        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
-    },
-    {
-        "R3AL": "1",
-        "timestamp": "2023-MM-DD HH:MM:SS",
-        "deviceName": "REALME",
-        "deviceId": "555555555555",
-        "deviceType": "Window",
-        "gatewayName": "PRGW-XXX",
-        "location": "422",
-        "dBm": "-80",
-        "security": "No",
-        "contact": "open",
-        "REAL": "1",
-        "code": "4a7d1ed414474e4033ac29ccb8653d9b"
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "type": "temp"
     }
 ]

@@ -1,72 +1,92 @@
 [
     {
-        "timestamp":"2022-10-07 10:57:10",
-        "deviceName":"mainofficetemp",
-        "deviceId":"019EE55C",
-        "deviceType":"Temperature-Sensor",
-        "gatewayName":"PRGW-XXX",
-        "location":"device-location",
-        "dBm":"-80",
-        "security":"No",
-        "temperature":{
-           "value":20,
-           "unit":"°C"
-        }
-     },
-     {
-        "timestamp":"2022-10-07 10:57:20",
-        "deviceName":"mainofficetemp",
-        "deviceId":"019EE55C",
-        "deviceType":"Temperature-Sensor",
-        "gatewayName":"PRGW-XXX",
-        "location":"device-location",
-        "dBm":"-80",
-        "security":"No",
-        "temperature":{
-           "value":21,
-           "unit":"°C"
-        }
-     },
-     {
-        "timestamp":"2022-10-07 10:57:30",
-        "deviceName":"mainofficetemp",
-        "deviceId":"019EE55C",
-        "deviceType":"Temperature-Sensor",
-        "gatewayName":"PRGW-XXX",
-        "location":"device-location",
-        "dBm":"-80",
-        "security":"No",
-        "temperature":{
-           "value":22, 
-           "unit":"°C"
-        }
-     },
-     {
-        "timestamp":"2022-10-07 10:57:40",
-        "deviceName":"mainofficetemp",
-        "deviceId":"019EE55C",
-        "deviceType":"Temperature-Sensor",
-        "gatewayName":"PRGW-XXX",
-        "location":"device-location",
-        "dBm":"-80",
-        "security":"No",
-        "temperature":{
-           "value":23,
-           "unit":"°C"
-        }
-     },
-     {
-        "timestamp":"2022-10-07 10:57:50",
-        "deviceName":"mainofficetemp",
-        "deviceId":"019EE55C",
-        "deviceType":"Temperature-Sensor",
-        "gatewayName":"PRGW-XXX",
-        "location":"device-location",
-        "dBm":"-80",
-        "security":"No",
-        "temperature":{
-           "value":24,
-           "unit":"°C"
-        }
-     }
+        "timestamp": "2023-03-08 01:30:11",
+        "deviceName": "living room",
+        "deviceId": "019EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "bed room",
+        "dBm": "-80",
+        "security": "No",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:21",
+        "deviceName": "living room",
+        "deviceId": "019EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "bed room",
+        "dBm": "-80",
+        "security": "No",
+        "temperature": {
+            "value": 26,
+            "unit": "C"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:31",
+        "deviceName": "living room",
+        "deviceId": "019EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "bed room",
+        "dBm": "-80",
+        "security": "No",
+        "temperature": {
+            "value": 25,
+            "unit": "C"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:41",
+        "deviceName": "living room",
+        "deviceId": "019EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "bed room",
+        "dBm": "-80",
+        "security": "No",
+        "temperature": {
+            "value": 24,
+            "unit": "C"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:51",
+        "deviceName": "living room",
+        "deviceId": "019EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "bed room",
+        "dBm": "-80",
+        "security": "No",
+        "temperature": {
+            "value": 23,
+            "unit": "C"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:11",
+        "deviceName": "living room",
+        "deviceId": "019EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "bed room",
+        "dBm": "-80",
+        "security": "No",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "type": "temp"
+    }
 ]

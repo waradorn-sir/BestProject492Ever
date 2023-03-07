@@ -10,7 +10,6 @@ def hello():
 @app.route("/send", methods=['POST'])
 def hear():
     writerlog.writelog(request.json)
-    print(request.json["code"])
     response = jsonify({"message":"ok"})
     response.status_code = 201
     return response
