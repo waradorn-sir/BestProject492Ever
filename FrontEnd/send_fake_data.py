@@ -16,7 +16,7 @@ def send_packet_fake(send_data): #for send fake packet
     print("send")
     index = np.random.randint(0,len(send_data)) # random index for send random data
     send_data[index]["code"] = hashb.hash(str(np.random.randint(1000,9999))) # append fake code
-    response = requests.request("POST", "http://10.83.126.107:5000/send", json=send_data[index],headers={"Content-Type": "application/json"}) #send data to server
+    response = requests.request("POST", "http://192.168.21.211:5000/send", json=send_data[index],headers={"Content-Type": "application/json"}) #send data to server
     print(response.text) # show response from server
 
 
@@ -38,4 +38,5 @@ if __name__ == "__main__":
         rand_data = [datastoretemp,datastorelight,datastoreroom]
         index_for_random_send = np.random.randint(0,len(rand_data))
         send_packet_fake(rand_data[index_for_random_send]) 
+        time.sleep(1)
    

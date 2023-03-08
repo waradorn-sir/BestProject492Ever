@@ -78,5 +78,53 @@
             "unit": "V"
         },
         "type": "occupancy"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:19",
+        "deviceName": "occupancy",
+        "deviceId": "019EE55C",
+        "deviceType": "Occupancy-PIR",
+        "gatewayName": "PRGW-123",
+        "location": "living room",
+        "dBm": "-80",
+        "security": "No",
+        "motionDetected": true,
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "occupancy"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:27",
+        "deviceName": "occupancy",
+        "deviceId": "019EE55C",
+        "deviceType": "Occupancy-PIR",
+        "gatewayName": "PRGW-123",
+        "location": "living room",
+        "dBm": "-80",
+        "security": "No",
+        "motionDetected": true,
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "occupancy"
+    },
+    {
+        "timestamp": "2023-03-08 01:30:35",
+        "deviceName": "occupancy",
+        "deviceId": "019EE55C",
+        "deviceType": "Occupancy-PIR",
+        "gatewayName": "PRGW-123",
+        "location": "living room",
+        "dBm": "-80",
+        "security": "No",
+        "motionDetected": true,
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "occupancy"
     }
 ]

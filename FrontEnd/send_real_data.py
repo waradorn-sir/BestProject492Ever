@@ -9,7 +9,7 @@ import hashbrown as hashb
 def send_packet_real(packet,key): # for send real packet
     print("send !!")
     packet["code"] = hashb.hash(key[np.random.randint(0,len(key))]) # append real hash code
-    response = requests.request("POST", "http://10.83.126.107:5000/send", headers={'Content-Type': 'application/json'}, json=packet) #send data to server
+    response = requests.request("POST", "http://192.168.21.211:5000/send", headers={'Content-Type': 'application/json'}, json=packet) #send data to server
     print(response.text) # show response from server
 
 
@@ -40,5 +40,5 @@ def load_data(): # load all data
 if __name__ == "__main__":
     key = ["0000","0001","0010"]
     raw_datastore = load_data()
-    collectdata(raw_datastore[0])
-    send_packet_real(raw_datastore[0],key)
+    collectdata(raw_datastore[6])
+    send_packet_real(raw_datastore[6],key)
