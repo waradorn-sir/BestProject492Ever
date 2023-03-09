@@ -84,16 +84,16 @@ def write_data(rawdata): # write new data from sensors to log sensor file
         json.dump(fett, outfile, indent=4, separators=(",",": ")) # convert list object {fett(variable)} to json format for write to log file(JSON file)
 
 if __name__ == "__main__":
-    # c = 0
-    # while c < 500 :
-    #     if c%5 == 0 :
-    #         write_data(create_temp_data())
-    #     if c < 100 and c%4 == 0 :
-    #         write_data(create_occupancy_data())
-    #     if c > 400 and c%4 == 0:
-    #         write_data(create_occupancy_data())
-    #     if c == 100 or c == 400 or c == 490 :
-    #         write_data(create_light_data)
-    #     time.sleep(2)
-    #     c += 1
-    print(create_light_data())
+    c = 0
+    while c < 500 :
+        if c%5 == 0 :
+            write_data(create_temp_data())
+        if c < 100 and c%4 == 0 :
+            write_data(create_occupancy_data())
+        if c > 400 and c%4 == 0:
+            write_data(create_occupancy_data())
+        if c == 100 or c == 400 or c == 490 :
+            write_data(create_light_data)
+        time.sleep(2)
+        c += 1
+    # print(create_light_data())
