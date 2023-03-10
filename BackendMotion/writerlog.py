@@ -1,7 +1,7 @@
 import json
 def writelog(obj):
-    with open("./loglight.json") as datafile:
+    with open("./LogMotion.json") as datafile:
         fett = json.load(datafile)
     fett.append(obj)
-    with open("./loglight.json", "w") as outfile:
+    with open("./LogMotion.json", "w") as outfile:
         json.dump(fett, outfile, indent=4, separators=(",",": "))

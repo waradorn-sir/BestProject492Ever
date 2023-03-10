@@ -29,7 +29,7 @@ while len(time_stamp) < 120:
     print(
           f" Upload Speed: {get_size(us / UPDATE_DELAY)}/s   "
           f", Download Speed: {get_size(ds / UPDATE_DELAY)}/s      ", end="\r")
-    time_stamp.append((ds / UPDATE_DELAY))
+    time_stamp.append((us / UPDATE_DELAY))
     # update the bytes_sent and bytes_recv for next iteration
     bytes_sent, bytes_recv = io_2.bytes_sent, io_2.bytes_recv
 print(time_stamp)

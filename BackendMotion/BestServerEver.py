@@ -5,14 +5,14 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Don't Hack Me"
+    return "Server Motion"
 
 @app.route("/send", methods=['POST'])
 def hear():
     writerlog.writelog(request.json)
     response = jsonify({"message":"ok"})
-    response.status_code = 201
+    response.status_code = 202
     return response
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0',port=5001,debug= True)
+    app.run(host='0.0.0.0',port=5002,debug= True)

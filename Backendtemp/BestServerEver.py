@@ -5,13 +5,13 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Don't Hack Me"
+    return "Server Temp"
 
 @app.route("/send", methods=['POST'])
 def hear():
     writerlog.writelog(request.json)
     response = jsonify({"message":"ok"})
-    response.status_code = 201
+    response.status_code = 202
     return response
 
 if __name__ == '__main__':

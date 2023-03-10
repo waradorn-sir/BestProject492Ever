@@ -4,39 +4,35 @@ import time
 import json
 import requests
 import hashbrown as hashb
+from scipy.stats import expon
+
+def generate_waiting_time():
+    avg_waiting_time = 15 # set average waiting time
+    random_time = round(expon.rvs(scale=avg_waiting_time,size=1)[0],2) #random number by exponential distribution [second] (if want minute *60)
+    print(f'Waiting time : {random_time}')
+    return random_time
 
 def send_packet_fake(send_data): #for send fake packet
-    x = datetime.datetime.now() # get current time store in x(variable)
-    a = np.random.randint(0,9) # random num 0 - 9 store in a(variable)
-    while int(x.strftime("%S"))%10 != a : # compare second number with random from a(variable)
-        x = datetime.datetime.now() # generate new current time ^
-
-        # to do create exponential for check traffic intensity before send packet
-
-    print("send")
+    print(f'Send data at {datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
     index = np.random.randint(0,len(send_data)) # random index for send random data
     send_data[index]["code"] = hashb.hash(str(np.random.randint(1000,9999))) # append fake code
-    response = requests.request("POST", "http://10.83.124.165:5000/send", json=send_data[index],headers={"Content-Type": "application/json"}) #send data to server
+    response = requests.request("POST", "http://10.81.65.136:5000/send", json=send_data[index],headers={"Content-Type": "application/json"}) #send data to server
     print(response.text) # show response from server
 
 
 
 def load_data(): # load all data
-    with open('olddatatemp.json') as datafile:
-            datastoretemp = json.load(datafile)
-    with open('olddatalight.json') as datafile:
+    with open('OldDataSwitch.json') as datafile:
             datastorelight = json.load(datafile)
-    with open('olddataroomoccupancy.json') as datafile:
+    with open('OldDataMotion.json') as datafile:
             datastoreroom = json.load(datafile)
-    return datastoreroom,datastorelight,datastoretemp #return all data
+    return datastoreroom,datastorelight #return all data
 
 if __name__ == "__main__":
-    # load data with fetch
-    #datastoreroom,datastorelight,datastoretemp = load_data()
-    while True :  # loop for use algorithm random to send fake file
-        datastoreroom, datastorelight, datastoretemp = load_data()
-        rand_data = [datastoretemp,datastorelight,datastoreroom]
-        index_for_random_send = np.random.randint(0,len(rand_data))
-        send_packet_fake(rand_data[index_for_random_send]) 
-        time.sleep(1)
+    while True :  # loop for use random algorithm to send fake packet
+        datastoreroom, datastorelight= load_data() # fetch data
+        rand_data = [datastorelight,datastoreroom]
+        index_for_random_send = np.random.randint(0,len(rand_data)) # random for choose light data or motion data
+        send_packet_fake(rand_data[index_for_random_send]) # send fake packet 
+        time.sleep(generate_waiting_time()) # wait for send new fake packet
    
