@@ -1,13 +1,6 @@
 import json
 from datetime import datetime
 import numpy as np
-import time
-
-datalight = "./Front/datalight.json"
-dataroomoccupancy = "./Front/dataroomoccupancy.json"
-datatemp = "./Front/datatemp.json"
-
-
 
 def create_temp_data():
     obj_temp ={
@@ -20,7 +13,7 @@ def create_temp_data():
         "dBm":"-80",
         "security":"Yes",
         "temperature":{
-            "value":20,
+            "value":0,
             "unit":"C"
         },
         "supplyVoltage":{

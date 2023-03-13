@@ -163,5 +163,1563 @@
             "unit": "C"
         },
         "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:15:01",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 21,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:16:33",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:16:44",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:16:54",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 18,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:17:04",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 28,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:17:14",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 18,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:17:24",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:17:34",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:17:45",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:17:55",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:18:05",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 19,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:18:15",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:18:25",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 23,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:18:35",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:18:45",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:18:55",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 24,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:19:05",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 18,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:19:15",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 23,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:19:26",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 25,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:19:36",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:19:46",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 28,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:19:56",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:20:07",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 19,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:20:17",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:20:27",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:20:37",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:20:48",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:20:58",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 25,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:21:08",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 23,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:21:19",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:21:29",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:21:39",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 28,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:21:49",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 22,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:22:00",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 25,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:22:10",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:22:20",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:22:31",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 26,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:22:41",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:22:51",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:23:01",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 26,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:23:12",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:23:22",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:23:32",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 21,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:23:42",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:23:53",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:24:03",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:24:13",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 21,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:24:24",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 21,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:24:34",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:24:44",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:24:54",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:25:05",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:25:15",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 19,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:25:25",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 26,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:25:35",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 23,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:25:45",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 21,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:25:55",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:26:06",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 26,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:26:16",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:26:26",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:26:36",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 28,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:26:46",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 24,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:26:56",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 23,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:27:07",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 18,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:27:17",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 19,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:27:27",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 23,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:27:37",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 27,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:27:48",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 24,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:27:58",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 26,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:28:08",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 19,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:28:18",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:28:29",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 26,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:28:39",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:28:49",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 21,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:29:00",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 21,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:29:10",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 24,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:29:21",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 29,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:29:31",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 19,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:29:41",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 28,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:29:51",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 20,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:30:02",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 25,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
+    },
+    {
+        "timestamp": "2023-03-13 22:30:12",
+        "deviceName": "temp_living_room",
+        "deviceId": "017EE55C",
+        "deviceType": "Temperature-Sensor",
+        "gatewayName": "PRGW-123",
+        "location": "living-room",
+        "dBm": "-80",
+        "security": "Yes",
+        "temperature": {
+            "value": 25,
+            "unit": "C"
+        },
+        "supplyVoltage": {
+            "value": 3.3,
+            "unit": "V"
+        },
+        "type": "temp"
     }
 ]

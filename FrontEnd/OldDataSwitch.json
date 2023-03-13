@@ -1,97 +1,82 @@
 [
     {
-        "timestamp" : "2023-03-08 01:38:51",
-        "deviceName": "LuxSensor",
-        "deviceId": "01MIS55C",
-        "deviceType": "Light-Sensor",
-        "gatewayName": "PRGW-123",
-        "location": "living room",
-        "dBm": "-80",
-        "security": "No", 
-        "illumination": {
-            "value": 165,
-            "unit": "lx"
-        }, 
-        "supplyVoltage": {
-            "value": 3.3,
-            "unit": "V"
-        }, 
-        "type": "light"
+        "timestamp":"2023-03-08 01:38:51",
+        "deviceName":"switch1",
+        "deviceId":"01MIS55C",
+        "deviceType":"Switch-Sensor",
+        "gatewayName":"PRGW-123",
+        "location":"living room",
+        "dBm":"-80",
+        "security":"Yes",
+        "interaction":"True",
+        "supplyVoltage":{
+            "value":3.3,
+            "unit":"V"
+        } ,
+        "type": "switch"
     },
     {
-        "timestamp" : "2023-03-08 01:38:51",
-        "deviceName": "LuxSensor",
-        "deviceId": "01MIS55C",
-        "deviceType": "Light-Sensor",
-        "gatewayName": "PRGW-123",
-        "location": "living room",
-        "dBm": "-80",
-        "security": "No", 
-        "illumination": {
-            "value": 153,
-            "unit": "lx"
-        }, 
-        "supplyVoltage": {
-            "value": 3.3,
-            "unit": "V"
-        }, 
-        "type": "light"
+        "timestamp":"2023-03-08 01:38:51",
+        "deviceName":"switch1",
+        "deviceId":"01MIS55C",
+        "deviceType":"Switch-Sensor",
+        "gatewayName":"PRGW-123",
+        "location":"living room",
+        "dBm":"-80",
+        "security":"Yes",
+        "interaction":"True",
+        "supplyVoltage":{
+            "value":3.3,
+            "unit":"V"
+        } ,
+        "type": "switch"
     },
     {
-        "timestamp" : "2023-03-08 01:38:51",
-        "deviceName": "LuxSensor",
-        "deviceId": "01MIS55C",
-        "deviceType": "Light-Sensor",
-        "gatewayName": "PRGW-123",
-        "location": "living room",
-        "dBm": "-80",
-        "security": "No", 
-        "illumination": {
-            "value": 163,
-            "unit": "lx"
-        }, 
-        "supplyVoltage": {
-            "value": 3.3,
-            "unit": "V"
-        }, 
-        "type": "light"
+        "timestamp":"2023-03-08 01:38:51",
+        "deviceName":"switch1",
+        "deviceId":"01MIS55C",
+        "deviceType":"Switch-Sensor",
+        "gatewayName":"PRGW-123",
+        "location":"living room",
+        "dBm":"-80",
+        "security":"Yes",
+        "interaction":"True",
+        "supplyVoltage":{
+            "value":3.3,
+            "unit":"V"
+        } ,
+        "type": "switch"
     },
     {
-        "timestamp" : "2023-03-08 01:38:51",
-        "deviceName": "LuxSensor",
-        "deviceId": "01MIS55C",
-        "deviceType": "Light-Sensor",
-        "gatewayName": "PRGW-123",
-        "location": "living room",
-        "dBm": "-80",
-        "security": "No", 
-        "illumination": {
-            "value": 169,
-            "unit": "lx"
-        }, 
-        "supplyVoltage": {
-            "value": 3.3,
-            "unit": "V"
-        }, 
-        "type": "light"
+        "timestamp":"2023-03-08 01:38:51",
+        "deviceName":"switch1",
+        "deviceId":"01MIS55C",
+        "deviceType":"Switch-Sensor",
+        "gatewayName":"PRGW-123",
+        "location":"living room",
+        "dBm":"-80",
+        "security":"Yes",
+        "interaction":"True",
+        "supplyVoltage":{
+            "value":3.3,
+            "unit":"V"
+        } ,
+        "type": "switch"
     },
     {
-        "timestamp" : "2023-03-08 01:38:51",
-        "deviceName": "LuxSensor",
-        "deviceId": "01MIS55C",
-        "deviceType": "Light-Sensor",
-        "gatewayName": "PRGW-123",
-        "location": "living room",
-        "dBm": "-80",
-        "security": "No", 
-        "illumination": {
-            "value": 180,
-            "unit": "lx"
-        }, 
-        "supplyVoltage": {
-            "value": 3.3,
-            "unit": "V"
-        }, 
-        "type": "light"
+        "timestamp":"2023-03-08 01:38:51",
+        "deviceName":"switch1",
+        "deviceId":"01MIS55C",
+        "deviceType":"Switch-Sensor",
+        "gatewayName":"PRGW-123",
+        "location":"living room",
+        "dBm":"-80",
+        "security":"Yes",
+        "interaction":"True",
+        "supplyVoltage":{
+            "value":3.3,
+            "unit":"V"
+        } ,
+        "type": "switch"
     }
 ] 

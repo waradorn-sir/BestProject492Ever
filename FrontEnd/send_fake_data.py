@@ -5,6 +5,7 @@ import json
 import requests
 import hashbrown as hashb
 from scipy.stats import expon
+import datetime
 
 def generate_waiting_time():
     avg_waiting_time = 15 # set average waiting time
@@ -16,7 +17,8 @@ def send_packet_fake(send_data): #for send fake packet
     print(f'Send data at {datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
     index = np.random.randint(0,len(send_data)) # random index for send random data
     send_data[index]["code"] = hashb.hash(str(np.random.randint(1000,9999))) # append fake code
-    response = requests.request("POST", "http://10.81.65.136:5000/send", json=send_data[index],headers={"Content-Type": "application/json"}) #send data to server
+    send_data[index]["timestamp"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") # append current tine
+    response = requests.request("POST", "http://192.168.21.211:5000/send", json=send_data[index],headers={"Content-Type": "application/json"}) #send data to server
     print(response.text) # show response from server
 
 
