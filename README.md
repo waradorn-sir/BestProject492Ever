@@ -13,17 +13,17 @@ Don't forget to check IP of your connection.
 
 To run the program using PowerShell:
 
-Navigate to the "BestProject492Ever" directory.
-Run the "Backend.py" file by typing "python Backend.py" in the terminal to start the server.
-Copy the IP address that is displayed in the terminal.
-Update the IP address in the "BackendMotion", "BackendSwitch", and "BackendTemp" folders to match the IP address of the server (keep the default port).
-Navigate to each of the folders mentioned above and run the "Backend.py" file.
+1) Navigate to the "BestProject492Ever" directory.
+2) Run the "Backend.py" file by typing "python Backend.py" in the terminal to start the server.
+3) Copy the IP address that is displayed in the terminal.
+4) Update the IP address in the "BackendMotion", "BackendSwitch", and "BackendTemp" folders to match the IP address of the server (keep the default port).
+5) Navigate to each of the folders mentioned above and run the "Backend.py" file.
 
 IoT Part:
 
-Navigate to the "BestProject492Ever\Frontend" directory.
-To send fake packets to the server, run "send_fake_data.py".
-To send data from the temperature device, run "send_real_data_auto(temp).py".
-To send data from the motion sensor or light switch device, run "send_real_data_manual.py" and use the argument "motion" or "switch" to specify which device to send data from.
+1) Navigate to the "BestProject492Ever\Frontend" directory.
+2) To send fake packets to the server, run "send_fake_data.py".
+3) To send data from the temperature device, run "send_real_data_auto(temp).py".
+4) To send data from the motion sensor or light switch device, run "send_real_data_manual.py" and use the argument "motion" or "switch" to specify which device to send data from.
 
 That's it!
