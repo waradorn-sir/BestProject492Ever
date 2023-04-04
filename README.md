@@ -4,12 +4,14 @@ This project requires Python 3.0 or higher.
 
 To install the necessary modules, run the following commands in your terminal:
 
-pip install Flask
-pip install numpy
-pip install scipy
-pip install -U scikit-learn
+1)pip install Flask
+2)pip install numpy
+3)pip install scipy
+4)pip install -U scikit-learn
 
 Don't forget to check IP of your connection.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To run the program using PowerShell:
 
@@ -18,6 +20,8 @@ To run the program using PowerShell:
 3) Copy the IP address that is displayed in the terminal.
 4) Update the IP address in the "BackendMotion", "BackendSwitch", and "BackendTemp" folders to match the IP address of the server (keep the default port).
 5) Navigate to each of the folders mentioned above and run the "Backend.py" file.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IoT Part:
 
